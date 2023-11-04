@@ -2354,8 +2354,8 @@ div.mobileNav{
 
 @media(max-width:800px){
 	ul.navbar1 li.nav-brand img{
-	width:85px;
-	height:65px;
+	width:65px;
+	height:45px;
 	margin-right:1px;
 }
 ul.navbar1 li.nav-brand a{
